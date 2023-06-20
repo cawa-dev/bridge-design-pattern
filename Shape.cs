@@ -4,7 +4,7 @@ public abstract class Shape
 {
     protected Color _color;
 
-    public Shape(Color color)
+    protected Shape(Color color)
     {
         _color = color;
     }
